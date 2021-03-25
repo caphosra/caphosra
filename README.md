@@ -1,8 +1,8 @@
 # Hi there, here is capra314cabra!
 
 ![mental](https://img.shields.io/badge/mental%20health-good-brightgreen)
-![status](https://img.shields.io/badge/status-student-green)
 ![competitive](https://img.shields.io/badge/competitive%20programming-failed-red)
+![state](https://img.shields.io/badge/license-MIT%20%28MeInTokyo%29-green)
 
 All I can do is just write readable but useless codes :P
 
