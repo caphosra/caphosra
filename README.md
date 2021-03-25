@@ -1,12 +1,12 @@
 # Hi there, here is capra314cabra!
 
 ![mental](https://img.shields.io/badge/mental%20health-good-brightgreen)
-![favlang](https://img.shields.io/badge/fav%20language-Typescript-green)
+![status](https://img.shields.io/badge/status-student-green)
 ![competitive](https://img.shields.io/badge/competitive%20programming-failed-red)
 
- I have discovered a truly marvelous way to create a perfect profile, which this margin is too narrow to contain.
+All I can do is just write readable but useless codes :P
 
 <a href="https://github.com/capra314cabra">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capra314cabra" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=capra314cabra&show_icons=true&count_private=true&hide=stars" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=capra314cabra&theme=tokyonight&show_icons=true&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capra314cabra&theme=tokyonight&layout=compact" />
 </a>
