@@ -6,6 +6,8 @@
 
 All I can do is just write readable but useless codes :P
 
+---
+
 > *NOTE: `Most Used Languages` doesn't mean I use only these languages whenever I work around. As the proverb goes, the right person in the right place.*
 
 <a href="https://github.com/capra314cabra">
