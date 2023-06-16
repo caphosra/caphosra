@@ -12,5 +12,5 @@ All I can do is just write readable but useless codes :P
 
 <a href="https://github.com/caphosra">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caphosra&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caphosra&theme=tokyonight&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caphosra&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook" />
 </a>
